@@ -77,16 +77,14 @@ Each class has a single responsibility:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 MonthlyBillReminder/
-│
-├── Category.java
-├── Bill.java
-├── BillManager.java
-├── ReminderService.java
-├── FileService.java
-└── Main.java
-
+  Category.java
+  Bill.java
+  BillManager.java
+  ReminderService.java
+  FileService.java
+  Main.java
 
 ---
 
